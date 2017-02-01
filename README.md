@@ -4,5 +4,5 @@
 Informational site for health and food.
 
 ## Members
-> Tommy
-> Tanya
+* Tommy
+* Tanya
